@@ -1,16 +1,246 @@
 {
-  "posts":[
+  "stevner": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 5,
+      "stevnenavn": "Mysen",
+      "dato": "2019-10-16",
+      "holds": [
+        {
+          "id": 1,
+          "dyr": "Jerv",
+          "avstand": 21,
+          "kategori": "Sittende",
+          "resultat": "5/5",
+          "poeng": "20"
+        },
+        {
+          "id": 2,
+          "dyr": "Ulv",
+          "avstand": 11,
+          "kategori": "Liggende",
+          "resultat": "5/4",
+          "poeng": "18"
+        },
+        {
+          "id": 3,
+          "dyr": "Elg",
+          "avstand": 87,
+          "kategori": "Sittende",
+          "resultat": "5/5",
+          "poeng": "20"
+        },
+        {
+          "id": 4,
+          "dyr": "Bjørn",
+          "avstand": 24,
+          "kategori": "Stående",
+          "resultat": "5/5",
+          "poeng": "20"
+        },
+        {
+          "id": 5,
+          "dyr": "Elg",
+          "avstand": 65,
+          "kategori": "Liggende",
+          "resultat": "5/4",
+          "poeng": "18"
+        },
+        {
+          "id": 6,
+          "dyr": "Villsvin",
+          "avstand": 34,
+          "kategori": "Stående",
+          "resultat": "5/5",
+          "poeng": "20"
+        }
+      ],
+      "totalpoeng": 117
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "33047baa-7b44-4da1-9c62-19a59d4bac54",
+      "stevnenavn": "Mosssss",
+      "dato": "2020-10-20",
+      "holds": [
+        {
+          "dyr": "sau",
+          "avstand": "33",
+          "stilling": "Liggende",
+          "treff": 5,
+          "innertreff": 4,
+          "poeng": 23
+        },
+        {
+          "dyr": "ugle",
+          "avstand": "54",
+          "stilling": "Stående",
+          "treff": 3,
+          "innertreff": 3,
+          "poeng": 15
+        }
+      ],
+      "totalpoeng": 38,
+      "finished": true
+    },
+    {
+      "id": "159a445f-9ebc-4e81-8e55-c922a5621c66",
+      "stevnenavn": "Moss",
+      "dato": "2020-10-25",
+      "holds": [
+        {
+          "dyr": "Elg",
+          "avstand": "123",
+          "stilling": "Liggende",
+          "treff": 5,
+          "innertreff": 4,
+          "poeng": 23
+        },
+        {
+          "dyr": "Mår",
+          "avstand": "76",
+          "stilling": "Stående",
+          "treff": 5,
+          "innertreff": 3,
+          "poeng": 21
+        }
+      ],
+      "totalpoeng": 44,
+      "finished": true
+    },
+    {
+      "id": "b97b354c-58ff-4e41-9480-9aee5acf7d49",
+      "stevnenavn": "Ås",
+      "dato": "2020-10-20",
+      "holds": [
+        {
+          "dyr": "Elg",
+          "avstand": "123",
+          "stilling": "Liggende",
+          "treff": 4,
+          "innertreff": 4,
+          "poeng": 20
+        },
+        {
+          "dyr": "Ulv",
+          "avstand": "33",
+          "stilling": "Stående",
+          "treff": 4,
+          "innertreff": 4,
+          "poeng": 20
+        }
+      ],
+      "totalpoeng": 40,
+      "finished": true
+    },
+    {
+      "id": "b601abe4-9b5d-4f32-a513-0d5a051a7854",
+      "stevnenavn": "Ås",
+      "dato": "2020-10-27",
+      "holds": [
+        {
+          "dyr": "sau",
+          "avstand": "33",
+          "stilling": "Liggende"
+        },
+        {
+          "dyr": "asd",
+          "avstand": "asd",
+          "stilling": "Stående"
+        }
+      ],
+      "finished": false
+    },
+    {
+      "id": "7b92b156-3065-4b8f-bf24-59e198a24d3a",
+      "stevnenavn": "SSSSS",
+      "dato": "2020-10-23",
+      "holds": [
+        {
+          "dyr": "sau",
+          "avstand": "33",
+          "stilling": "Liggende",
+          "treff": 5,
+          "innertreff": 3,
+          "poeng": 21
+        },
+        {
+          "dyr": "ugle",
+          "avstand": "54",
+          "stilling": "Stående",
+          "treff": 4,
+          "innertreff": 2,
+          "poeng": 16
+        }
+      ],
+      "totalpoeng": 37,
+      "finished": true
+    },
+    {
+      "id": "035cd3b3-3ea5-4da9-977c-c305410276df",
+      "stevnenavn": "WWWW",
+      "dato": "2020-10-23",
+      "holds": [
+        {
+          "dyr": "sau",
+          "avstand": "33",
+          "stilling": "Sittende",
+          "treff": 4,
+          "innertreff": 4,
+          "poeng": 20
+        },
+        {
+          "dyr": "ugle",
+          "avstand": "54",
+          "stilling": "Stående",
+          "treff": 5,
+          "innertreff": 5,
+          "poeng": 25
+        }
+      ],
+      "totalpoeng": 45,
+      "finished": true
+    },
+    {
+      "id": "81e1308f-52f0-4b3e-98c0-258108dbc1e0",
+      "stevnenavn": "qqqqq",
+      "dato": "2020-10-23",
+      "holds": [
+        {
+          "dyr": "sau",
+          "avstand": "ff",
+          "stilling": "Sittende",
+          "treff": 4,
+          "innertreff": 3,
+          "poeng": 18
+        },
+        {
+          "dyr": "sdsfsdf",
+          "avstand": "33",
+          "stilling": "Stående",
+          "treff": 5,
+          "innertreff": 3,
+          "poeng": 21
+        }
+      ],
+      "totalpoeng": 39,
+      "finished": true
+    },
+    {
+      "id": "27f71018-5385-4bc7-9fbb-c7a0d4f01614",
+      "stevnenavn": "Aremark",
+      "dato": "2020-10-29",
+      "holds": [
+        {
+          "dyr": "Elg",
+          "avstand": "123",
+          "stilling": "Sittende"
+        },
+        {
+          "dyr": "Mår",
+          "avstand": "54",
+          "stilling": "Liggende"
+        }
+      ],
+      "finished": false
     }
   ]
 }
